@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionViewTutorial.Android", "CollectionViewTutorial\CollectionViewTutorial.Android\CollectionViewTutorial.Android.csproj", "{FB93E179-03F6-4E5E-8971-0EDF06039406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionViewTutorial", "CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial.csproj", "{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB93E179-03F6-4E5E-8971-0EDF06039406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB93E179-03F6-4E5E-8971-0EDF06039406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB93E179-03F6-4E5E-8971-0EDF06039406}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FB93E179-03F6-4E5E-8971-0EDF06039406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB93E179-03F6-4E5E-8971-0EDF06039406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB93E179-03F6-4E5E-8971-0EDF06039406}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1E6B76-37FB-4C54-847C-0C61C6ECDAC7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {098B713A-0647-4364-9F91-0018C0B3FB1E}
+	EndGlobalSection
+EndGlobal
